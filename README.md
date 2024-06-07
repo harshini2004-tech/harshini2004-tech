@@ -1,10 +1,12 @@
 AgriVerse: Integrated Agricultural Decision Support System
 
-Overview
+Overview:
+
 AgriVerse is an integrated platform that harnesses the power of artificial intelligence (AI) to revolutionize agriculture. By combining crop prediction, fertilizer recommendation, crop disease prediction, price prediction, an agricultural chatbot, and an e-commerce platform, AgriVerse aims to empower farmers and agricultural stakeholders with advanced analytics and decision support tools.
 
 
-Features
+Features:
+
 Crop Prediction: Predicts crop yields based on historical data, weather patterns, soil health, and other relevant factors.
 
 Fertilizer Prediction: Recommends optimal fertilizer types and application rates tailored to specific crops and soil conditions.
